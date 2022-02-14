@@ -4,7 +4,12 @@ description: This resource is a supporting file for tuples, dictionaries, and co
   python mistakes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/9c0a429b1d1ee755c4af82d6bc509ca9_tuple_examples.py
 file_type: text/python-source
+learning_resource_types:
+- Lecture Notes
+parent_title: Lectures
+parent_type: CourseSection
 resourcetype: Other
 title: tuple_examples.py
+type: OCWFile
 uid: 9c0a429b-1d1e-e755-c4af-82d6bc509ca9
 ---

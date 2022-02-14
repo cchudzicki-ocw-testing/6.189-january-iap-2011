@@ -3,7 +3,12 @@ content_type: resource
 description: This resource is a supporting file for defining functions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/db3578f5e370878cf5663837fa8f5acf_functions.py
 file_type: text/python-source
+learning_resource_types:
+- Lecture Notes
+parent_title: Lectures
+parent_type: CourseSection
 resourcetype: Other
 title: functions.py
+type: OCWFile
 uid: db3578f5-e370-878c-f566-3837fa8f5acf
 ---
