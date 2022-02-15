@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gent
 file_type: text/python-source
 learning_resource_types:
 - Exams
+ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
 resourcetype: Other
