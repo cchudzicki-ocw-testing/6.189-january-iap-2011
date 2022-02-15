@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_hw3_written.pdf
-type: OCWFile
 uid: c25956af-d584-e9f8-519c-ee96db213255
 ---

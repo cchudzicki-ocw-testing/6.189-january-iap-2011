@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: hangman_lib_demo.py
-type: OCWFile
 uid: 6a292a25-1f26-fc43-7e39-95cd3843a75f
 ---

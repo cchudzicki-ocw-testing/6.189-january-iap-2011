@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: string_examples.py
-type: OCWFile
 uid: 41008f4e-03fd-486d-fca6-b97d2ca77e13
 ---

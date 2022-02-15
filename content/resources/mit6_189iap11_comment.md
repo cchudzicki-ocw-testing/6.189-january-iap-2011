@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_comment.pdf
-type: OCWFile
 uid: af08e559-46e0-4aa0-6e3f-697353121235
 ---

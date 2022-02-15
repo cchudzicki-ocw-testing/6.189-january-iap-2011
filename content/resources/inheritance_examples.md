@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: inheritance_examples.py
-type: OCWFile
 uid: fd5ea53e-a1c4-0f3a-88a5-cf06d2f97420
 ---

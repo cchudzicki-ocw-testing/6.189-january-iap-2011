@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: height_example.py
-type: OCWFile
 uid: 90a696b3-bbfb-5d5c-b030-f45a17e1e72d
 ---

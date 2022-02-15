@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: while_else.py
-type: OCWFile
 uid: 32623cef-a109-ac00-7005-b0d5c281365e
 ---

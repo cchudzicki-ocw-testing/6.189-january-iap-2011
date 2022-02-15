@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: check_for_vowels.py
-type: OCWFile
 uid: ead8af05-1c82-1f7b-61a6-f45be4671390
 ---

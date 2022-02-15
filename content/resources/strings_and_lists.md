@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: strings_and_lists.py
-type: OCWFile
 uid: 01e2713d-b682-45ff-6ade-ae3be49d1aef
 ---

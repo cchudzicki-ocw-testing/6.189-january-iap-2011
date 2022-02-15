@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: wheel.py
-type: OCWFile
 uid: 9f029f7f-e10d-bd44-9129-8971176142bd
 ---

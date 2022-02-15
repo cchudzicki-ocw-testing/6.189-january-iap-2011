@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: conditional_examples.py
-type: OCWFile
 uid: 1ec2998c-7361-09fd-5a3a-c594c51c4cfd
 ---

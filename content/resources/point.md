@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: point.py
-type: OCWFile
 uid: aab8a55d-7003-94ad-fa4d-1df3ee870259
 ---

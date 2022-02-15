@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: rps_example2.py
-type: OCWFile
 uid: 329b029c-b608-b67e-245e-4f64fb9b3812
 ---

@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: functions.py
-type: OCWFile
 uid: db3578f5-e370-878c-f566-3837fa8f5acf
 ---

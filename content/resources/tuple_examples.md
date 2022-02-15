@@ -10,6 +10,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: tuple_examples.py
-type: OCWFile
 uid: 9c0a429b-1d1e-e755-c4af-82d6bc509ca9
 ---

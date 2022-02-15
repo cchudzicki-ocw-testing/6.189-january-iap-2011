@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Other
 title: exam_sol.py
-type: OCWFile
 uid: f1a92a53-241c-f607-bee9-34dd5b337115
 ---

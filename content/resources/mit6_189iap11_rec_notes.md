@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_rec_notes.pdf
-type: OCWFile
 uid: 800f436a-8d78-5f9e-4e96-0c32f9482fb4
 ---

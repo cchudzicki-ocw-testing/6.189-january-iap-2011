@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: nims.py
-type: OCWFile
 uid: ffa33aed-58f9-f48a-dbcc-063463118f47
 ---

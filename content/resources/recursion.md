@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: recursion.py
-type: OCWFile
 uid: a244b0d2-c388-deb0-fc18-4fe5f7fe496a
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: graphics.py
-type: OCWFile
 uid: ac08fc3c-887c-ea05-7160-b22094284ea5
 ---

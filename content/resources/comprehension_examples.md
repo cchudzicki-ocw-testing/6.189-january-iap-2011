@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Other
 title: comprehension_examples.py
-type: OCWFile
 uid: 41061329-0531-c06b-31d6-5dd9cd529da4
 ---

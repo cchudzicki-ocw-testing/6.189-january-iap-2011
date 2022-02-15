@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: hw2.py
-type: OCWFile
 uid: a2320e6b-b311-659d-997e-a561fcd50f90
 ---

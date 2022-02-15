@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_graphics.pdf
-type: OCWFile
 uid: fb7b64f2-7708-e94f-6067-98f22fbd54fe
 ---

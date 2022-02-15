@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: game_of_life_template.py
-type: OCWFile
 uid: 59d40453-2054-a757-457f-81e23b0d0984
 ---

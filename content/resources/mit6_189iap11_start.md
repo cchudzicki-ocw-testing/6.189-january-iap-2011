@@ -9,6 +9,5 @@ parent_title: Lectures
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_start.pdf
-type: OCWFile
 uid: c741380f-c671-88bb-346f-1ede09aa2521
 ---
