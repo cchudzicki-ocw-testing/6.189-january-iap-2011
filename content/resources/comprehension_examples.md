@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: comprehension_examples.py
 uid: 41061329-0531-c06b-31d6-5dd9cd529da4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

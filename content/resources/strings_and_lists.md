@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: strings_and_lists.py
 uid: 01e2713d-b682-45ff-6ade-ae3be49d1aef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: check_for_vowels.py
 uid: ead8af05-1c82-1f7b-61a6-f45be4671390
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

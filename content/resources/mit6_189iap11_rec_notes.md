@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_rec_notes.pdf
 uid: 800f436a-8d78-5f9e-4e96-0c32f9482fb4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

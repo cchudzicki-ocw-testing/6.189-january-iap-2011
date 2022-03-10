@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 4d671211-55ab-38ce-b99f-69217d1fa9a0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< anchor "Python/IDLE_Resources" >}}{{< /anchor >}}Python/IDLE Resources

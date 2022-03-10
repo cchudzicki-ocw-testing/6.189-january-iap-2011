@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: rec_ex.py
 uid: d44e3a33-6203-1864-6cb9-e29487b0f891
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

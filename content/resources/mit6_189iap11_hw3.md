@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_hw3.pdf
 uid: bbc27b6e-4e5e-cf70-0f34-295afd476749
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

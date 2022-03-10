@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: while_else.py
 uid: 32623cef-a109-ac00-7005-b0d5c281365e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_mistakes.pdf
 uid: d2cb9be9-26ef-df0a-4df7-8433255a876c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

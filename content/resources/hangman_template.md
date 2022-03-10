@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hangman_template.py
 uid: 55832f61-29c4-a1a3-6f24-a07e1b92985b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

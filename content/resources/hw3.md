@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw3.py
 uid: a996f282-d3c8-1618-5be7-8e04b214a7b7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

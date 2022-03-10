@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: height_example.py
 uid: 90a696b3-bbfb-5d5c-b030-f45a17e1e72d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_comment.pdf
 uid: af08e559-46e0-4aa0-6e3f-697353121235
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

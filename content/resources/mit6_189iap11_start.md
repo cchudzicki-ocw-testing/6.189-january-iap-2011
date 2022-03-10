@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_start.pdf
 uid: c741380f-c671-88bb-346f-1ede09aa2521
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

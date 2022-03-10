@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: graphics.py
 uid: ac08fc3c-887c-ea05-7160-b22094284ea5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

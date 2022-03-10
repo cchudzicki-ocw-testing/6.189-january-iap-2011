@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 1c62f712-bf1c-b829-37d1-4ea86c3b8672
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section includes the online textbook and a schedule of [readings by session](#Readings_by_Session).
