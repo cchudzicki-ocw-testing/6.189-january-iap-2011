@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 5d1a5094-f9b1-d4d4-bff1-91eb06deeed4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, [available here](http://www.python.org/download/releases/2.6.6/). You should download and install version 2.6.x, **not** 2.7.x or 3.x. All MIT Course 6 classes currently use a version of Python 2.6.
@@ -77,7 +81,7 @@ Handout ({{% resource_link b2cd69c6-79ab-80b0-fa9a-d1ec641964fb "PDF" %}})
 
 hangman\_template.py ({{% resource_link 55832f61-29c4-a1a3-6f24-a07e1b92985b "PY" %}})
 
-words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/words.txt))
+words.txt ({{% resource_link ceced678-ef8c-0abd-22ee-3ad35d6001da "TXT" %}})
 
 Optional extension:
 
@@ -125,7 +129,7 @@ graphics.py ({{% resource_link ac08fc3c-887c-ea05-7160-b22094284ea5 "PY" %}}) â€
 
 wheel.py ({{% resource_link 9f029f7f-e10d-bd44-9129-8971176142bd "PY" %}})
 
-rgb.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/rgb.txt))
+rgb.txt ({{% resource_link f9e0f0e9-5855-5e01-0223-0693aeceaaa5 "TXT" %}})
 
 The graphics.py package and documentation are courtesy of John Zelle, and are used with permission.
 

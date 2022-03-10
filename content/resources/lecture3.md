@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lecture3.py
 uid: 09b7e874-0c0e-c1d8-995e-2e4dab90849c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

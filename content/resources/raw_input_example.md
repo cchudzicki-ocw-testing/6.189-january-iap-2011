@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: raw_input_example.py
 uid: 07f8c8ff-4769-f5c6-99a2-96bf36b46368
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

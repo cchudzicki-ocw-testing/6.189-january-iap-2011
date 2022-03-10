@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: tetris_template.py
 uid: 0dfbd161-80c2-6bab-f3ed-cc57bf50c1f7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

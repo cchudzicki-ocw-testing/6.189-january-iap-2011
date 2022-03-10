@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_project1.pdf
 uid: b2cd69c6-79ab-80b0-fa9a-d1ec641964fb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

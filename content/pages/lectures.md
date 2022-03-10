@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lectures
 uid: 452642f2-dc9f-9093-87c9-7c046705b92a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

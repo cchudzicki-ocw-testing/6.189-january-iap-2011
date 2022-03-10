@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: wheel.py
 uid: 9f029f7f-e10d-bd44-9129-8971176142bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

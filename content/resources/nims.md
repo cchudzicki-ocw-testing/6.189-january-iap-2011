@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: nims.py
 uid: ffa33aed-58f9-f48a-dbcc-063463118f47
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

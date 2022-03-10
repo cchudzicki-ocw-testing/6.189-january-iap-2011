@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: list_examples.py
 uid: f0bcfbd5-d8da-6d09-9164-de289ae20510
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

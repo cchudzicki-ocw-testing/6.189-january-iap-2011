@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 4121d094-5294-dd04-7363-d91b0b145ceb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The purpose of the test is to give you an idea of the kind of comfort with programming that we'd like you to get to very quickly in 6.01. If you do fine on this test, you should have no difficulty with the programming aspects of 6.01 on start-up. See how far you can get with this in 1–2 hours.

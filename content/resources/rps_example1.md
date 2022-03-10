@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: rps_example1.py
 uid: ea30469b-142f-d5b4-5e3f-cc90ee5110c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

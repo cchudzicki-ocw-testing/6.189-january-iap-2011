@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_rec_problems.pdf
 uid: 231bd099-5d90-626f-2d7e-2ad223fa7eea
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

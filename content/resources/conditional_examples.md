@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: conditional_examples.py
 uid: 1ec2998c-7361-09fd-5a3a-c594c51c4cfd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

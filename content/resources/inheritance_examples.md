@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: inheritance_examples.py
 uid: fd5ea53e-a1c4-0f3a-88a5-cf06d2f97420
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

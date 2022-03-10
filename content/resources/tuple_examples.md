@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: tuple_examples.py
 uid: 9c0a429b-1d1e-e755-c4af-82d6bc509ca9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

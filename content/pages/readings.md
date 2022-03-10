@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 1c62f712-bf1c-b829-37d1-4ea86c3b8672
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section includes the online textbook and a schedule of [readings by session](#Readings_by_Session).
@@ -93,7 +97,7 @@ Sections 4.1, 4.2, 4.4-4.7, and 6.1-6.2
 
 Chapter 3, appendix A, sections 6.5-6.9
 
-Sections 2.1, 2.2, and 2.3 (up to the heading "Lists") from the [6.01 course notes](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/content/pages/unit-1-software-engineering/object-oriented-programming)
+Sections 2.1, 2.2, and 2.3 (up to the heading "Lists") from the [6.01 course notes](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/unit-1-software-engineering/object-oriented-programming)
 
 
 {{< tdclose >}}
@@ -108,7 +112,7 @@ Sections 2.1, 2.2, and 2.3 (up to the heading "Lists") from the [6.01 course not
 
 Chapters 7 and 8
 
-Chapter 2 from "Lists" on, from the [6.01 course notes](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/content/pages/unit-1-software-engineering/object-oriented-programming)
+Chapter 2 from "Lists" on, from the [6.01 course notes](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/unit-1-software-engineering/object-oriented-programming)
 
 More on list comprehensions is available [here](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions) and on [Wikipedia](http://en.wikipedia.org/wiki/List_comprehension).
 

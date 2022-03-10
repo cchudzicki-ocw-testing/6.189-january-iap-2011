@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: exam_sol.py
 uid: f1a92a53-241c-f607-bee9-34dd5b337115
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

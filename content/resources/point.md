@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: point.py
 uid: aab8a55d-7003-94ad-fa4d-1df3ee870259
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

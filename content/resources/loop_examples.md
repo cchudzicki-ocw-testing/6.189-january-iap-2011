@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: loop_examples.py
 uid: e3f6bc82-d9f4-b985-aabb-5c4f68cc7fbc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

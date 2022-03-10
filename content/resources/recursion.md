@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: recursion.py
 uid: a244b0d2-c388-deb0-fc18-4fe5f7fe496a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
