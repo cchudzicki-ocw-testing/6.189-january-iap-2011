@@ -81,7 +81,7 @@ Handout ({{% resource_link b2cd69c6-79ab-80b0-fa9a-d1ec641964fb "PDF" %}})
 
 hangman\_template.py ({{% resource_link 55832f61-29c4-a1a3-6f24-a07e1b92985b "PY" %}})
 
-words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/words.txt))
+words.txt ({{% resource_link ceced678-ef8c-0abd-22ee-3ad35d6001da "TXT" %}})
 
 Optional extension:
 
@@ -129,7 +129,7 @@ graphics.py ({{% resource_link ac08fc3c-887c-ea05-7160-b22094284ea5 "PY" %}}) â€
 
 wheel.py ({{% resource_link 9f029f7f-e10d-bd44-9129-8971176142bd "PY" %}})
 
-rgb.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/rgb.txt))
+rgb.txt ({{% resource_link f9e0f0e9-5855-5e01-0223-0693aeceaaa5 "TXT" %}})
 
 The graphics.py package and documentation are courtesy of John Zelle, and are used with permission.
 
