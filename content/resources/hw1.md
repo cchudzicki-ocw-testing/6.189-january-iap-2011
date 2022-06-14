@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource is a supporting file for code template. '
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d5f451505dbe740b5e846b6250e1cc1b_hw1.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d5f451505dbe740b5e846b6250e1cc1b_hw1.py
 file_type: text/python-source
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource is a supporting file for code template. 

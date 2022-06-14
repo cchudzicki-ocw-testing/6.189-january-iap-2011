@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to python.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/c741380fc67188bb346f1ede09aa2521_MIT6_189IAP11_start.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/c741380fc67188bb346f1ede09aa2521_MIT6_189IAP11_start.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to python.

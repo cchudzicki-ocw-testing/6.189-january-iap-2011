@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for defining functions.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ead8af051c821f7b61a6f45be4671390_check_for_vowels.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ead8af051c821f7b61a6f45be4671390_check_for_vowels.py
 file_type: text/python-source
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource is a supporting file for defining functions.

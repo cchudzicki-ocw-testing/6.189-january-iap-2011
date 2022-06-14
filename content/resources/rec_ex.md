@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource is a supporting file for recursion. '
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d44e3a33620318646cb9e29487b0f891_rec_ex.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d44e3a33620318646cb9e29487b0f891_rec_ex.py
 file_type: text/python-source
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource is a supporting file for recursion. 

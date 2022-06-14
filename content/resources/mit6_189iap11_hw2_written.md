@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to string operations.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6f702cf8a230582dc4e3340cba2fec46_MIT6_189IAP11_hw2_written.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6f702cf8a230582dc4e3340cba2fec46_MIT6_189IAP11_hw2_written.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to string operations.
